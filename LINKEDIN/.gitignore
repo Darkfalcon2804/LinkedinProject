@@ -1,0 +1,7 @@
+.env
+*.csv
+*.sqlite3
+*.pyc
+*.pyc
+test.py
+*.csv
