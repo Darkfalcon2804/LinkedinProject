@@ -2,7 +2,7 @@
 ## USE CASES RESUME MAKING, SUGGESTION USING AI ETC.
 CLONE THIS REPO 
 ```
-git clone https://github.com/akshatjaiin/LINKEDIN
+git clone \https://github.com/Darkfalcon2804/LinkedinProject.git
 ```
 ```
 cd LINKEDIN
